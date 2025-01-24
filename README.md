@@ -1,2 +1,0 @@
-# web-sell
-web jualan
